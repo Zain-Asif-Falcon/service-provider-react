@@ -1,0 +1,13 @@
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.checkout-description {
+  font-size: 18px;
+  width: 45vw;
+  text-align: center;
+  margin-top: 1rem;
+}

@@ -1,0 +1,47 @@
+.detail-nav {
+  height: 70px;
+  padding: 10px;
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.detail-nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.detail-nav ul li {
+  margin: 5px 15px;
+  cursor: pointer;
+}
+
+.dropdown {
+  color: #7c8184;
+  display: flex;
+  align-items: center;
+}
+
+.dropdown:hover {
+  color: #c4c5c7;
+}
+
+.flex-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.search {
+  height: 40px;
+  margin-right: 10px;
+  width: 200px;
+  border-radius: 4px;
+  padding: 10px;
+}

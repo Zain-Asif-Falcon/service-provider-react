@@ -1,0 +1,8 @@
+.services-contianer {
+  height: 39vh;
+  background-color: white;
+  padding: 3rem 10rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+}

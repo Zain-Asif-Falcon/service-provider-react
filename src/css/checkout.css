@@ -1,0 +1,15 @@
+.checkout-conatainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f9fa;
+  height: 100vh;
+}
+
+.checkout-flex {
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+}
